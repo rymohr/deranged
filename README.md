@@ -1,6 +1,6 @@
 ### Example
 
-```
+```js
 import deranged from 'deranged';
 
 deranged.parse('2005..2008,2010,2015..2018')
