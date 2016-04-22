@@ -52,4 +52,4 @@ function stringify(values) {
   return tokens.join(',');
 }
 
-module.exports = { parse, stringify };
+module.exports = {parse: parse, stringify: stringify};
