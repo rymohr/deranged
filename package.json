@@ -1,0 +1,24 @@
+{
+  "name": "deranged",
+  "version": "1.0.0",
+  "description": "Parse / stringify discontinuous integer ranges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "range",
+    "parse",
+    "stringify"
+  ],
+  "author": "Ryan Mohr <ryan@kumu.io> (http://twitter.com/rymohr)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rymohr/deranged.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rymohr/deranged/issues"
+  },
+  "homepage": "https://github.com/rymohr/deranged"
+}
