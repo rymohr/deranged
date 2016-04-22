@@ -1,4 +1,4 @@
-Helpers for working with discontinuous integer ranges.
+### Example
 
 ```
 import deranged from 'deranged';
